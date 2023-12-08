@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: ":palm_tree: How To Twine",
+    pageTitle: "🌴 How To Twine",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
